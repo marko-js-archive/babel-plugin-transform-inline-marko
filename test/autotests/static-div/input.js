@@ -1,0 +1,2 @@
+
+var x = marko`<div/>`;

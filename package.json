@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-transform-inline-marko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui bdd --reporter spec ./test/",
+    "prepublish": "require-self"
+  },
+  "author": "Michael Rawlings <ml.rawlings@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babylon": "^6.9.0",
+    "marko": "git@github.com:marko-js/marko.git#marko-v4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "require-self": "^0.1.0"
+  }
+}
