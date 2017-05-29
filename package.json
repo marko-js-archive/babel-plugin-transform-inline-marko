@@ -17,6 +17,6 @@
     "babel-core": "^6.13.2",
     "chai": "^3.5.0",
     "mocha": "^3.0.2",
-    "require-self": "^0.1.0"
+    "require-self": "^0.2.0"
   }
 }
