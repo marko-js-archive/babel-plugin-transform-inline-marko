@@ -10,7 +10,7 @@
   "author": "Michael Rawlings <ml.rawlings@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "babylon": "^6.9.0",
+    "babylon": "^6.17.4",
     "marko": "git@github.com:marko-js/marko.git#marko-v4"
   },
   "devDependencies": {
