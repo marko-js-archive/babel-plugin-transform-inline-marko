@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "babel-core": "^6.13.2",
-    "chai": "^4.0.0",
+    "chai": "^4.1.2",
     "mocha": "^3.0.2",
     "require-self": "^0.2.0"
   }
